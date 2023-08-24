@@ -1,0 +1,5 @@
+Simulation Project:
+1. Ed tech simulations
+2. What ed tech sims cover spacing/interleaving
+	Clustering BASED on some category. Advanced covers
+3. Simulation Algorithm

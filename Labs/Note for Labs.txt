@@ -1,0 +1,5 @@
+Note for Labs:
+Go to File - New Project - Version Control [in R]
+
+Do it this way because cloning from the desktop doesn't link it correctly.
+This creates the WORKSPACE at the top right so that you can commit using the Git tab.
